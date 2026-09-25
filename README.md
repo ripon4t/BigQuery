@@ -33,12 +33,12 @@ LIMIT 10;
 ### [Click the Project Sample Link](https://console.cloud.google.com/bigquery?ws=!1m7!1m6!12m5!1m3!1squery-a-public-dataset-azizul!2sus-central1!3se96f6e27-61e4-450f-a292-e7b075f12816!2e1)
 
 The Project Screenshot from the Google Cloud Platform BigQuery as follows:
-![Screenshot](https://github.com/snmhoque123/Google_Cloud_BigQuery/blob/main/Sample_Screenshot.png)
+![Screenshot](https://ripon4t.github.io/BigQuery/blob/main/Sample_Screenshot.png)
 
 
 ### [Click Data Visualization using Looker Studio](https://lookerstudio.google.com/s/rFbjzR-CrzU)
 
 The output data can be visualized using Looker Studio:
-![](https://github.com/snmhoque123/Google_Cloud_BigQuery/blob/main/Data_visualization.png)
+![](https://ripon4t.github.io/BigQuery/blob/main/Data_visualization.png)
 
 
